@@ -1,2 +1,2 @@
 # piskrs
-Paper scISsor rocK Recognition System
+**P**aper sc**IS**sor roc**K** **R**ecognition **S**ystem
